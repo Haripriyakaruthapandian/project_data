@@ -1,0 +1,69 @@
+db.mobile.insert([
+    {
+        {
+            "id":"MOBILE001",
+            "image":"C:\Users\hp\Desktop\amazon_project\images\samsungphone.jfif",
+            "brand":"SAMSUNG",
+            "description":"SAMSUNG LATEST TREND",
+            "new-price":"13000",
+            "old-price":"16000",
+            "discount":"3000",
+            "deliver-type":"FREE-DELIVERY",
+            "rating":"4.0",
+            "item_id":1,
+    
+        },
+        {
+            "id":"MOBILE002",
+            "image":"C:\Users\hp\Desktop\amazon_project\images\mob.jfif",
+            "brand":"REALME",
+            "description":"REALME LATEST TREND",
+            "new-price":"12000",
+            "old-price":"16000",
+            "discount":"4000",
+            "deliver-type":"FREE-DELIVERY",
+            "rating":"4.0",
+            "item_id":2,
+    
+        },
+        {
+            "id":"MOBILE003",
+            "image":"C:\Users\hp\Desktop\amazon_project\images\realme.jfif",
+            "brand":"OPPO",
+            "description":"OPPO LATEST TREND",
+            "new-price":"10000",
+            "old-price":"14000",
+            "discount":"4000",
+            "deliver-type":"FREE-DELIVERY",
+            "rating":"4.0",
+            "item_id":3,
+    
+        },
+        {
+            "id":"MOBILE004",
+            "image":"C:\Users\hp\Desktop\amazon_project\images\iphone.jfif",
+            "brand":"IPHONE",
+            "description":"IPHONE LATEST TREND",
+            "new-price":"40000",
+            "old-price":"50000",
+            "discount":"10000",
+            "deliver-type":"FREE-DELIVERY",
+            "rating":"4.0",
+            "item_id":4,
+    
+        },
+        {
+            "id":"MOBILE005",
+            "image":"C:\Users\hp\Desktop\amazon_project\images\redmi.jfif",
+            "brand":"REDMI",
+            "description":"REDMI LATEST TREND",
+            "new-price":"23000",
+            "old-price":"26000",
+            "discount":"3000",
+            "deliver-type":"FREE-DELIVERY",
+            "rating":"4.0",
+            "item_id":5,
+    
+        }
+    }
+])

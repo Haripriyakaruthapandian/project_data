@@ -1,0 +1,39 @@
+db.locations.insert([
+    {
+        "id":"1",
+        "City":"Chennai",
+        "State":"TamilNadu",
+
+    },
+    {
+        "id":"2",
+        "City":"Mumbai",
+        "State":"Maharashtra",
+
+    },
+    {
+        "id":"3",
+        "City":"Hyderabad",
+        "State":"Telugana",
+
+    },
+    {
+        "id":"4",
+        "City":"Cochin",
+        "State":"Kerala",
+
+    },
+    {
+        "id":"5",
+        "City":"Bangalore",
+        "State":"Karnataka",
+
+    },
+    {
+        "id":"1",
+        "City":"Vizag",
+        "State":"AndhraPradesh",
+
+    },
+
+]);
